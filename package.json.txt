@@ -1,0 +1,14 @@
+{
+  "name": "gm-savdo-bot",
+  "version": "1.0.0",
+  "description": "Telegram Savdo Bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
+
+
